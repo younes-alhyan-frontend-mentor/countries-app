@@ -16,11 +16,11 @@ If you're wanting to test your JavaScript skills this is the challenge for you. 
 
 ## 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/countries-app)
+[View Demo](https://younes-alhyan-frontend-mentor.github.io/countries-app)
 
 ## 🔎 More
 
-[GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+[GitHub Repository](https://github.com/younes-alhyan-frontend-mentor/frontend-mentor/)
 
 ## 🛠️ Tech Stack
 
@@ -35,8 +35,8 @@ If you're wanting to test your JavaScript skills this is the challenge for you. 
 
 ## 🏅 Level
 
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
